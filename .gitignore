@@ -1,0 +1,25 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.obj
+*.o
+
+# MSVC debug files
+*.pdb
+*.ilk
+vc*.pdb
+
+# Build folders
+build/
+bin/
+out/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
