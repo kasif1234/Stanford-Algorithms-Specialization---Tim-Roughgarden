@@ -1,6 +1,6 @@
 1. Divide and Conquer, Sorting and Searching, and Randomized Algorithms \[15 hr]
 
-If you need a refresher on the basics of proofs (induction, contradiction, etc.), I recommend the lecture notes "Mathematics for Computer Science" by Lehman and Leighton (see separate Resources pages).
+If you need a refresher on the basics of proofs (**induction, contradiction**, etc.), I recommend the lecture notes "Mathematics for Computer Science" by Lehman and Leighton (see separate Resources pages).
 
 ==================================================================================================================
 
