@@ -22,3 +22,11 @@ If you need a refresher on the basics of proofs (**induction, contradiction**, e
 
 ==================================================================================================================
 
+
+
+
+
+#### **TODO:**
+
+1. Code effectively in c++, apply 20/80 rule
+2. Complete Coursera
