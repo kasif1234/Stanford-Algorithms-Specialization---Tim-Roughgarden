@@ -28,7 +28,7 @@ If you need a refresher on the basics of proofs (**induction, contradiction**, e
 
 #### **TODO: \[Stanford algo \& C++]**
 
-1. Code effectively in C++, apply 20/80 rule -> Use Bro Code 6 hour c++ video and code along the way
+1. Code effectively in C++, apply 20/80 rule -> Use Bro Code 6 hour C++ video and code along the way
 2. Do one advanced project in C++ -> \[Algo, CE, CS Theoretical] -> Focus hard here such that professors have to hire you
 3. Complete Coursera
 4. 
